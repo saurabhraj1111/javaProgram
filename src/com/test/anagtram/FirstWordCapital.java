@@ -3,7 +3,7 @@ package com.test.anagtram;
 public class FirstWordCapital {
 
 	public static void main(String[] args) {
-
+        //first word capital 
 		String str = getFormatedStr("hello saurabh raj");
 		System.out.println(str);
 	}
